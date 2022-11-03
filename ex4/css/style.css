@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+h2{
+    color: rgb(95, 131, 160);
+    font-style: italic;
+    font-size: x-large;
+}
+h1{
+    background-color: rgba(246, 196, 59, 0.778);
+    font-size: larger;
+}
+.azulF{
+    color: rgb(57, 113, 169);
+    font-weight: bold;
+}
+i{
+    color: rgb(95, 160, 139);
+    
+}
