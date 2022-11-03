@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+h2{
+    color: cadetblue;
+    font-style: italic;
+    font-size: x-large;
+}
+h1{
+    background-color: rgba(246, 196, 59, 0.778);
+    font-size: larger;
+}
